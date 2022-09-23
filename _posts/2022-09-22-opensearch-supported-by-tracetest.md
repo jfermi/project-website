@@ -3,7 +3,7 @@ layout: post
 title:  "Using OpenSearch as the traces storage for Tracetest"
 authors:
   - mathnogueira
-date:   2022-09-14 12:15:00 -0300
+date:   2022-09-22 12:15:00 -0300
 categories:
   - community
 ---
